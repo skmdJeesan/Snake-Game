@@ -4,11 +4,11 @@ A classic Snake game built with vanilla HTML, CSS, and JavaScript. Control the s
 
 ## 📱 Live Demo
 
-Check out the live demo here: [Snake Game Live Demo](https://your-live-demo-link.com)
+Check out the live demo here: [Snake Game Live Demo](https://skmdjeesan.github.io/Snake-Game/)
 
 ## 📁 Repository
 
-View the source code on GitHub: [Snake Game Repository](https://github.com/your-username/snake-game)
+View the source code on GitHub: [Snake Game Repository](https://github.com/skmdJeesan/Snake-Game)
 
 ---
 
